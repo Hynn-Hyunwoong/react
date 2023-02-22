@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+*.jpg
+*.jpeg
+*.gif
+*.png
+.vscode
+.DS_Store
+*.pem
