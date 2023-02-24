@@ -94,3 +94,10 @@ componentDidUpdate
 
     If change to state in parents component, the forward function for children component.
     Also, children component launch to received from parents component
+
+    ## Todo
+
+    1. Webpack
+    2. router
+    3. 전역상태
+    4. CSS - styled-component 
