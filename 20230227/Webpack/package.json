@@ -1,0 +1,15 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "1) Babel just transpiler only code. Also, babel doens't transpile is multiple files. ex- require 2) WebPack is bundler module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
