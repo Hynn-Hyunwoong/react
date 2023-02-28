@@ -14,6 +14,9 @@
         - devserver
     3. package.json
         - "start" : "webpack serve --open --hot"
+
+
+
 - NodeJS
 - server.js
 - node server.js => build
@@ -30,4 +33,11 @@ ES6 Module, commonJS Module
 ```
 |--src : regarding front-code
 |-- dist : bundled for front-code
-|-- serve : 
+|-- serve 
+|-------- server.js
+```
+
+## React Code
+- Rendering front-code
+- Class Component => Hook
+- Function Component
