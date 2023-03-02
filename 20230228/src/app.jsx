@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import LoginBox from "./pages/login"
 
-const App = () => {
+export const App = () => {
     return (
         <div>
             Hello World

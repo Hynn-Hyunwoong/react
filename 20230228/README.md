@@ -41,3 +41,5 @@ ES6 Module, commonJS Module
 - Rendering front-code
 - Class Component => Hook
 - Function Component
+
+- try to management State in Code.
