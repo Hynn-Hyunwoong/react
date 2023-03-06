@@ -32,3 +32,20 @@ Map of Directory
 | -- pages
 | -- hooks
 ```
+
+## Map of Directory 
+
+- Components : a little create a compoenent  ex) button, input, checkbox, radiobox..
+
+- Hooks : Custom hooks 
+
+- Layouts : header, footer, sidebar.. 
+- patges : Main ..
+
+
+## Create a new Header
+
+1. Home
+2. About
+3. Contact
+4. Login
