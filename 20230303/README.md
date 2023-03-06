@@ -109,3 +109,6 @@ const App = (props) =>{
     const {children, id} = props
     console.log(children, id)
 }
+```
+
+### main.jsx 
