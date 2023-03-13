@@ -1,8 +1,8 @@
 {
-  "name": "webpack",
+  "name": "stepa",
   "version": "1.0.0",
-  "description": "1) Babel just transpiler only code. Also, babel doens't transpile is multiple files. ex- require 2) WebPack is bundler module.",
-  "main": "index.js",
+  "description": "",
+  "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "react": "^18.2.0",
     "webpack": "^5.76.1",
     "webpack-cli": "^5.0.1"
   }
