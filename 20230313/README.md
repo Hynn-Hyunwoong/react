@@ -54,3 +54,37 @@ function *gen(){}
 
 3. Context API
 - The Context API provides a way to manage data sharing using Provider and Consumer components that allow components to access shared data.
+
+## Redux Introduction && Manual code 
+
+1. Redux is Managemenet State in JavaScript
+2. Open Library 
+
+- create new Directory 
+- NPM Install for redux
+```sh
+npm install redux
+```
+Directory tree
+| @babel/runtime
+| redux
+| regenerator-runtime
+
+```sh
+mkdir src & cd src
+mkdir store & cd store
+vi store.js
+```
+
+`redux-thunk`
+1. code is basic code 
+2. Code is Simple
+  - while using dispatch
+  - Code is Asynchronous?
+  - Code is synchronous?
+
+
+## Must Styding this redux basic 
+1. Code context
+2. Code launch logic
+3. Code launch Flow
